@@ -1,4 +1,4 @@
-/*  https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/ */
+/*  https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/  */
 class Solution {
     public String freqAlphabets(String s) {
         StringBuilder sb = new StringBuilder();
