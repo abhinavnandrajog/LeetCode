@@ -1,4 +1,4 @@
-/*  https://leetcode.com/problems/determine-if-string-halves-are-alike/description/ */
+/*  https://leetcode.com/problems/determine-if-string-halves-are-alike/description/  */
 class Solution {
     public boolean halvesAreAlike(String s) {
         int n = s.length()/2;
