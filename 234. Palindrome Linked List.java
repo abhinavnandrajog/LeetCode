@@ -1,3 +1,4 @@
+/* https://leetcode.com/problems/palindrome-linked-list/description/ */
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -19,6 +20,7 @@ class Solution {
             list2.add(0,temp.val);
             temp = temp.next;
         }
+        
 
         
 
